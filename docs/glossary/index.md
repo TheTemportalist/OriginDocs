@@ -1,7 +1,7 @@
-Format
+Glossary
 ==================
 
-Under this section, you will learn about:
+Definitions and details
 
 * [Semantic Versioning][] - The system Origin (and others) use to track versions
 * [Dependencies][] - What kind of dependencies to use when
