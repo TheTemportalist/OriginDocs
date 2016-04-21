@@ -34,23 +34,24 @@ API
 
 1. Find your `build.gradle` file
 2. Add this to it:
-	```
-	dependencies {
-		deobfProvided "temportalist.origin:Origin:9.+"
-	}
-	```
+```
+dependencies {
+	deobfProvided "temportalist.origin:Origin:9.+"
+}
+```
 
 Foundation
 --------------------
 
 1. Find your `build.gradle` file
 2. Add this to it:
-	```
-	dependencies {
-		deobfCompile "temportalist.origin:Origin:9.0.+"
-	}
-	```
+```
+dependencies {
+	deobfCompile "temportalist.origin:Origin:9.0.+"
+}
+```
 
 !!! note
+	
 	When using a Foundation setup, the second digit (for Origin) in SemVer notation indicates the foundation release.
 	If you want to setup with OriginFoundation 2.0.0, use Origin version 9.2.0
