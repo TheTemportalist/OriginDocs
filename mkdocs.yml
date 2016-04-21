@@ -1,4 +1,5 @@
 site_name: Origin Documentation
+theme: mkdocs
 pages:
   - [index.md, Home]
   - [setup/index.md, Setting Up]
