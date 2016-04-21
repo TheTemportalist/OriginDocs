@@ -55,3 +55,8 @@ dependencies {
 	
 	When using a Foundation setup, the second digit (for Origin) in SemVer notation indicates the foundation release.
 	If you want to setup with OriginFoundation 2.0.0, use Origin version 9.2.0
+
+Finally
+--------------------
+
+Make sure to run `bash gradlew setupDecompWorkspace --refresh-dependencies` after adding the gradle code
