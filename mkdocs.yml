@@ -1,9 +1,10 @@
 site_name: Origin Documentation
 pages:
   - [index.md, Home]
-  - [format/index.md, Format, Home]
-  - [format/versioning.md, Format, Semantic Versioning]
-  - [format/depending.md, Format, Depending on Origin]
+  - [setup/index.md, Setting Up]
   - [api/index.md, Api, The API]
   - [foundation/index.md, Foundation, As a Foundation]
   - [internal/index.md, Internal, Behind the Scenes]
+  - [glossary/index.md, Format, Home]
+  - [glossary/versioning.md, Format, Semantic Versioning]
+  - [glossary/depending.md, Format, Depending on Origin]
